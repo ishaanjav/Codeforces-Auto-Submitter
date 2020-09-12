@@ -22,7 +22,7 @@ Selenium is required to do the browser automation.
 
 ### 2. One-time Setup for ```submit.py``` file
 Follow the short steps below and you're good to go!
-1. On **lines 17-19*** uncomment the Web Browser you have.
+1. On **lines 17-19** uncomment the Web Browser you have.
 2. On **lines 36 and 38** enter your username and password. This is so that the program can log into your Codeforces account. 
  - **If you look at the program *(just a single python file)* you'll see that it does not store or send information anywhere and the code has comments for every step in the process.**
 3. On **line 51** copy-paste the path/directory where your solution code is stored.
