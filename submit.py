@@ -42,7 +42,7 @@ login.click()
 
 # The program has to login in before it can upload the file
 #  You may decrease or increase this amount based on how fast it logs in
-#  Otherwise, you may run into an error. In the case of an error, try increasing the sleep time and contact me at ijapps101@gmail.com as a last resort.
+#  Otherwise, you may run into an error. In the case of an error, try increasing the sleep time or contact me at ijapps101@gmail.com as a last resort.
 sleep(3)
 
 # Step 3:
