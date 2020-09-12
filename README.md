@@ -8,7 +8,7 @@ from terminal to have your solution to the problem submitted.**
 ## Example
 **```python3 submit.py 234C```**
 
-The code above will ***automatically*** submit your solution to Problem 234C on the Codeforces website. Read the **Setup** instructions below to get started.
+The code above will ***automatically*** submit your solution to Problem 234C on the Codeforces website. Read the [**Setup**](https://github.com/ishaanjav/Codeforces-Auto-Submitter#setup-1-minute-or-less) instructions below to get started.
 
 --------- 
 
