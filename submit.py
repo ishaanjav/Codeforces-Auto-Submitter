@@ -67,3 +67,7 @@ browser.find_element_by_xpath('''//*[@id="sidebar"]/div[5]/div[4]/form/table/tbo
 # Submit the solution
 submit = browser.find_element_by_xpath('''//*[@id="sidebar"]/div[5]/div[4]/form/table/tbody/tr[4]/td/div/div[2]/input''')
 submit.click()
+
+# Uncomment the 2 lines below if you would like the window to automatically close after the file has been submitted
+# sleep(2)
+# browser.close()
