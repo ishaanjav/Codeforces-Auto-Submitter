@@ -25,13 +25,13 @@ Follow the short steps below and you're good to go!
 1. On **lines 17-19** uncomment the Web Browser you have.
 2. On **lines 36 and 38** enter your username and password. This is so that the program can log into your Codeforces account. 
  - **If you look at the program *(just a single python file)* you'll see that it does not store or send information anywhere and the code has comments for every step in the process.**
-3. On **line 51** copy-paste the path/directory where your solution code is stored.
+3. On **line 51** copy-paste the path/directory where your code your solutions.
 
 ***Optional:***
 
 4. On **line 57** change the file extension based on the language your code is in.
 - **EX:** If you are submitting a C++ file, type "cpp". If your solution is in Java type "java", etc.
-5. The auto submitter will submit a file starting with the Problem ID *(234C, 1045E, etc)* and ending in the file extension you specified.
+5. The auto submitter will submit a file starting with the Problem ID *(234C, 1045E, etc)* and ending in the file extension you specified. *(EX: 234C_Weather.cpp)*
 - If you name your solution with a different convention, you can modify the condition in **line 61** to select the correct file
 
 #### That's it! You're ready to use the Auto Submitter to have your Codeforces solutions automatically submitted with a single command!
