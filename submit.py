@@ -66,6 +66,9 @@ browser.find_element_by_xpath('''//*[@id="sidebar"]/div[5]/div[4]/form/table/tbo
 
 # Submit the solution
 submit = browser.find_element_by_xpath('''//*[@id="sidebar"]/div[5]/div[4]/form/table/tbody/tr[4]/td/div/div[2]/input''')
+# The above line of code may not work for some codeforces problems.
+# In that case you can uncomment the line below
+# submit = browser.find_element_by_xpath("//*[@value = 'Submit']")
 submit.click()
 
 # Uncomment the 2 lines below if you would like the window to automatically close after the file has been submitted
