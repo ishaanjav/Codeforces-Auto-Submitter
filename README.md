@@ -43,6 +43,14 @@ Follow the short steps below and you're good to go!
 If you have questions or ran into errors, email me at ijapps101@gmail.com
 
 ----
+
+## Updates
+The Auto Submitter is a super simple, effortless way to submit your Codeforces solutions. 
+
+If you have any features in mind that you would like for the Auto Submitter to have, feel free to email me **ijapps101@gmail.com** or contact me through [**my website**](https://ij-apps.wixsite.com/android).
+
+----
+
 # Learn Android App Development
 Do you want to learn how to make your own Android apps?
 I have a [**YouTube Channel**](https://www.youtube.com/IJApps) called [**IJ Apps**](https://www.youtube.com/IJApps) for teaching Android app development to programmers of all levels.
