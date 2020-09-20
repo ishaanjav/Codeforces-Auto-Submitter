@@ -16,9 +16,9 @@ The code above will ***automatically*** submit your solution to Problem 234C on 
 ### 1. Install Selenium
 Run any of the following commands - *(based on what package manager you have)* - in your terminal to install selenium. 
 Selenium is required to do the browser automation.
-1. ```pip3 install selenium```
-2. ```sudo easy_install selenium```
-3. ```brew install selenium-server-standalone```
+- ```pip3 install selenium``` **OR**
+- ```sudo easy_install selenium``` **OR**
+- ```brew install selenium-server-standalone```
 
 ### 2. One-time Setup for ```submit.py``` file
 Follow the short steps below and you're good to go!
